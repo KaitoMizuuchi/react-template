@@ -11,7 +11,7 @@ const Layout = ({ children }) => {
             <main className="l-main">
                 {children}
             </main>
-            <footer>
+            <footer className="l-footer">
                 <Footer />
             </footer>
         </>
